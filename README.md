@@ -21,15 +21,25 @@
 
 ---
 
+### 🏆 Achievements
+
+- 🥇 Ranked **5th in Türkiye** in the **Siber Vatan CTF**, a nationwide cybersecurity competition organized in 2025  
+- 🛡️ Conducted a successful penetration test for **Erzurum Technical University**, received an official **letter of recommendation**  
+- 🧪 Currently interning at the **Cybersecurity Institute of TÜBİTAK BİLGEM**.  
+- 🌍 Selected as an **Erasmus+ student** for the **2025–2026 Fall term** at 🇵🇱 **Politechnika Lubelska (Poland)**  
+
+---
+
 ### 🛠️ Red Team Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-ff7043?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnupg&logoColor=white" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Dirsearch-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Dirsearch"/>
   <img src="https://img.shields.io/badge/Ffuf-4caf50?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ffuf"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Metasploit-5e429f?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/SQLmap-eb4034?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLmap"/>
 </p>
 
 ---
@@ -60,11 +70,10 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/özcanersan/" target="_blank">
+  <a href="https://linkedin.com/in/özcanersan" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
   <a href="https://ozcanpng.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Blog-000000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
 </p>
-
