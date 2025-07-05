@@ -26,7 +26,7 @@
 - 🥇 Ranked **5th in Türkiye** in the **Siber Vatan CTF**, a nationwide cybersecurity competition organized in 2025  
 - 🛡️ Conducted a successful penetration test for **Erzurum Technical University**, received an official **letter of recommendation**  
 - 🧪 Currently interning at the **Cybersecurity Institute of TÜBİTAK BİLGEM**.  
-- 🌍 Selected as an **Erasmus+ student** for the **2025–2026 Fall term** at 🇵🇱 **Politechnika Lubelska (Poland)**  
+- 🌍 Selected as an **Erasmus+ student** for the **2025–2026 Fall term** at 🇵🇱 **Politechnika Lubelska**  
 
 ---
 
