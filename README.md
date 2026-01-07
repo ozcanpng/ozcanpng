@@ -1,5 +1,5 @@
 <div align="center">
 
-png was here — systems remember.
+png was here, lowkey unnoticed.
 
 </div>
